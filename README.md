@@ -232,4 +232,5 @@ dont do anything illegal or something that your math teacher would disapprove of
 
 ![frame_0_delay-0 1s](https://github.com/user-attachments/assets/83a3822c-5253-4a8d-9d47-89412494d58f)
 
-
+if k is i
+ksi
